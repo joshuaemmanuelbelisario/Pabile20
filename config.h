@@ -19,9 +19,10 @@
 #define MATRIX_COL_PINS { D0, B2, D4, B6 }
 #define UNUSED_PINS
  
-/*
+/* 
+Backlight at wrong pin on PCB number 20-01-5019
 #define BACKLIGHT_LEVELS 3
-#define BACKLIGHT_PIN A3
+#define BACKLIGHT_PIN F4
 */
 
 #define ENCODERS_PAD_A { F5, F7 }
