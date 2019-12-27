@@ -3,7 +3,7 @@
 
 #include "quantum.h"
 
-#define LAYOUT_ortho( \
+#define LAYOUT( \
     k101, k102, k103, k104, \
     k201, k202, k203, k204, \
     k301, k302, k303, k304, \
