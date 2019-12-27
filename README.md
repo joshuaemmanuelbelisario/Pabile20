@@ -9,3 +9,5 @@ Layouts
 ![Linear grid](https://github.com/pabile/Pabile20/blob/master/_bak/layout-grid.jpg)
 
 ![Numeric pad](https://github.com/pabile/Pabile20/blob/master/_bak/layout-numpad.jpg)
+
+![Sample build](https://github.com/pabile/Pabile20/blob/master/_bak/web-DSCN9318.jpg)
