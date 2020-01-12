@@ -10,4 +10,6 @@ Layouts
 
 ![Numeric pad](https://github.com/pabile/Pabile20/blob/master/_bak/layout-numpad.jpg)
 
+![Base kit for MX switches](https://github.com/pabile/Pabile20/blob/master/_bak/web-DSCN9331.jpg)
+
 ![Sample build](https://github.com/pabile/Pabile20/blob/master/_bak/web-DSCN9318.jpg)
