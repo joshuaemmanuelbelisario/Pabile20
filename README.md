@@ -1,3 +1,5 @@
+Please follow this QMK branch for updated configurations: https://github.com/pabile/qmk_firmware/tree/pabile/keyboards/pabile
+
 # Pabile20
 https://pabileonline.blogspot.com/search/label/pabile20
 
