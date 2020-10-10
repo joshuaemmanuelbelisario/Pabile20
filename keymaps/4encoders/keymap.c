@@ -24,27 +24,27 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 void encoder_update_user(uint8_t index, bool clockwise) {
   if (index == 0) { /* First encoder */
     if (clockwise) {
-      tap_code(KC_S); /*mouse wheel up*/
+      tap_code(KC_A); /*mouse wheel up*/
     } else {
-      tap_code(KC_N); /*mouse wheel down */
+      tap_code(KC_B); /*mouse wheel down */
     }
   } else if (index == 1) { /* Second encoder */  
     if (clockwise) {
-      tap_code(KC_E); /*volume down*/
+      tap_code(KC_C); /*volume down*/
     } else { 
-      tap_code(KC_U);
+      tap_code(KC_D);
     }
   } else if (index == 2) { /* Second encoder */  
     if (clockwise) {
-      tap_code(KC_N); /*volume down*/
+      tap_code(KC_E); /*volume down*/
     } else {
-      tap_code(KC_D); /*volume up*/
+      tap_code(KC_F); /*volume up*/
     }
   } else if (index == 3) {
     if (clockwise) {
-      tap_code(KC_D);
+      tap_code(KC_G);
     } else {
-      tap_code(KC_E);
+      tap_code(KC_H);
     }
   }
 }
